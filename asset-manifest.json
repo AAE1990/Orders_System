@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/AAE1990/Orders_system/static/css/main.dba1dd65.chunk.css",
-    "main.js": "/AAE1990/Orders_system/static/js/main.870b0aa4.chunk.js",
-    "main.js.map": "/AAE1990/Orders_system/static/js/main.870b0aa4.chunk.js.map",
-    "runtime-main.js": "/AAE1990/Orders_system/static/js/runtime-main.53c1e3ef.js",
-    "runtime-main.js.map": "/AAE1990/Orders_system/static/js/runtime-main.53c1e3ef.js.map",
-    "static/css/2.86da2101.chunk.css": "/AAE1990/Orders_system/static/css/2.86da2101.chunk.css",
-    "static/js/2.c7780e96.chunk.js": "/AAE1990/Orders_system/static/js/2.c7780e96.chunk.js",
-    "static/js/2.c7780e96.chunk.js.map": "/AAE1990/Orders_system/static/js/2.c7780e96.chunk.js.map",
-    "index.html": "/AAE1990/Orders_system/index.html",
-    "precache-manifest.1fca0a4d885f518c4ea79ac57285432c.js": "/AAE1990/Orders_system/precache-manifest.1fca0a4d885f518c4ea79ac57285432c.js",
-    "service-worker.js": "/AAE1990/Orders_system/service-worker.js",
-    "static/css/2.86da2101.chunk.css.map": "/AAE1990/Orders_system/static/css/2.86da2101.chunk.css.map",
-    "static/css/main.dba1dd65.chunk.css.map": "/AAE1990/Orders_system/static/css/main.dba1dd65.chunk.css.map",
-    "static/js/2.c7780e96.chunk.js.LICENSE.txt": "/AAE1990/Orders_system/static/js/2.c7780e96.chunk.js.LICENSE.txt"
+    "main.css": "/Orders_sysytem/static/css/main.dba1dd65.chunk.css",
+    "main.js": "/Orders_sysytem/static/js/main.955fab04.chunk.js",
+    "main.js.map": "/Orders_sysytem/static/js/main.955fab04.chunk.js.map",
+    "runtime-main.js": "/Orders_sysytem/static/js/runtime-main.f8d5156a.js",
+    "runtime-main.js.map": "/Orders_sysytem/static/js/runtime-main.f8d5156a.js.map",
+    "static/css/2.86da2101.chunk.css": "/Orders_sysytem/static/css/2.86da2101.chunk.css",
+    "static/js/2.c7780e96.chunk.js": "/Orders_sysytem/static/js/2.c7780e96.chunk.js",
+    "static/js/2.c7780e96.chunk.js.map": "/Orders_sysytem/static/js/2.c7780e96.chunk.js.map",
+    "index.html": "/Orders_sysytem/index.html",
+    "precache-manifest.447d3db2024a05dd4e3f8bd1c7b89916.js": "/Orders_sysytem/precache-manifest.447d3db2024a05dd4e3f8bd1c7b89916.js",
+    "service-worker.js": "/Orders_sysytem/service-worker.js",
+    "static/css/2.86da2101.chunk.css.map": "/Orders_sysytem/static/css/2.86da2101.chunk.css.map",
+    "static/css/main.dba1dd65.chunk.css.map": "/Orders_sysytem/static/css/main.dba1dd65.chunk.css.map",
+    "static/js/2.c7780e96.chunk.js.LICENSE.txt": "/Orders_sysytem/static/js/2.c7780e96.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.53c1e3ef.js",
+    "static/js/runtime-main.f8d5156a.js",
     "static/css/2.86da2101.chunk.css",
     "static/js/2.c7780e96.chunk.js",
     "static/css/main.dba1dd65.chunk.css",
-    "static/js/main.870b0aa4.chunk.js"
+    "static/js/main.955fab04.chunk.js"
   ]
 }
