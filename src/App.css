@@ -1,0 +1,14 @@
+.app-wrapper {
+  margin: 0 auto;
+  width: 1360px;
+}
+
+.app-wrapper-content {
+  float: left;
+  width: 1360px;
+  height: 860px;
+  margin-top: 20px;
+  border: rgb(132, 144, 170) 1px solid;
+  border-radius: 20px;
+  background-color: rgb(218, 219, 219);
+}

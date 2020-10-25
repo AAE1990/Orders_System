@@ -1,0 +1,69 @@
+.formCaseMO {
+    width: 1356px;
+    height: 700px;
+    margin-top: 10px;
+    margin-left: 1px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.formCaseMO h3 {
+    text-align: center;
+}
+
+.divFormDesign {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.inputData {
+    width: 300px;
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.labelDate {
+    margin-top: 10px;
+}
+
+.inputDatE {
+    width: 300px;
+    height: 30px;
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.buttonForm {
+    margin-top: 50px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+.buttonPopup {
+    margin-top: 30px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+.popupOrder {
+	opacity: 0.8;
+    position: fixed;
+    margin: 15%;
+    margin-top: 9.9%;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	padding: 16px;
+	background-color: rgba(1, 1, 1, 0.725);
+	z-index: 100;
+    overflow: auto;
+    border-radius: 20px;
+}
+
+.popupOrderH {
+    color: navajowhite;
+}
